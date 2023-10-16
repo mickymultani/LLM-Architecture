@@ -1,6 +1,5 @@
 # Attention Heatmap Visualization
 
----
 
 **What does this visualization represent?**
 

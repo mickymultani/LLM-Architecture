@@ -1,4 +1,5 @@
-#### **2. Mean Activation per Layer for Each Token**
+# **Mean Activation per Layer for Each Token**
+
 
 **What does this visualization represent?**
 

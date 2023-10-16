@@ -1,4 +1,4 @@
-# **1. Neuron Activation for a Specific Layer across Tokens**
+# **Neuron Activation for a Specific Layer across Tokens**
 
 **What does this visualization represent?**
 

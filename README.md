@@ -1,5 +1,7 @@
 # LLM-Architecture
 
+_Note: Download the notebook, as its too big to display in GitHub_
+
 ## GPT-2 Medium Architecture Visualizations
 Explore the architecture of the GPT-2 Medium model through a series of insightful and interactive visualizations. This repository provides tools to understand the model's attention mechanisms, neuron activations, token embeddings, and overall architecture.
 
